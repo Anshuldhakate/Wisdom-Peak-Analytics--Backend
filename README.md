@@ -4,6 +4,9 @@
 
 This project is a RESTful API for managing job applications, built with Node.js, Express, and MongoDB. It allows for CRUD operations on job positions, applicants, and interview schedules.
 
+## Deployed Link- 
+https://wisdom-peak-analytics-backend.onrender.com
+
 ## Prerequisites
 
 - Node.js (v16 or later)
